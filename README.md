@@ -631,6 +631,24 @@ This HMI is designed for EV charging station interfaces. For feedback, improveme
 - Performance profiling on low-end devices
 - Localization for international markets
 
+## 🚀 Live Demo
+
+Access the deployed VoltCharge HMI here:
+
+🔗 https://ev-charging-rouge.vercel.app/
+
+### Quick Test Flow
+1. Enter a valid 10-digit phone number.
+2. Select **Fast** or **Normal** charging mode.
+3. Use the **microphone button** to say:
+   - “Start charging”
+   - “Stop charging”
+4. Observe the 80% auto-pause, safety features, and completion flow.
+5. Download the receipt at the end of the session.
+
+> **Note:** For voice commands, allow microphone permission and use Chrome or Edge for best compatibility.
+
+
 ## License
 
 MIT License - Feel free to use, modify, and distribute for commercial or personal projects.
